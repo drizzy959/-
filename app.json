@@ -1,7 +1,7 @@
 {
   "name": "DRIZZY RUTO MD",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg",
+  "logo": "https://telegra.ph/file/72cfafce0276e6dfb46ad.jpg",
   "keywords": ["Venocyber-md", "VENOCYBER", "VENOCYBER MD","VENOCYBER MD wabot","Venocyber","Venocybertech"],
   "success_url": "/",
   "stack": "container",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "VENOCYBER-𝐓𝐄𝐂𝐇",
+      "value": "DRIZZY RUTO",
       "required": true
     },
 
